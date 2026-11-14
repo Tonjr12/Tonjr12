@@ -1,7 +1,7 @@
 # Olá, eu sou o Washington! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Programa%C3%A7%C3%A3o;Python+Developer+%F0%9F%90%8D;Banco+de+Dados+com+MySQL;T%C3%A9cnico+pelo+SENAC" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=2225F7&center=true&vCenter=true&width=435&lines=Data+Science" alt="Typing SVG" /></a>
 </div>
 
 ---
