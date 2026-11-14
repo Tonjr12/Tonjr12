@@ -14,12 +14,7 @@ Estudante de programação em São Paulo, técnico formado pelo SENAC. Foco em P
   <img src="https://skillicons.dev/icons?i=python,mysql,html,git,github,pycharm" alt="Tecnologias" />
 </p>
 
-## Projetos em destaque
 
-- [**tonjr-python-dsa**](https://github.com/Tonjr12/tonjr-python-dsa): simulador de caixa eletrônico em Python
-- [**tonjr-python-mysql-crud-**](https://github.com/Tonjr12/tonjr-python-mysql-crud-): CRUD em Python com MySQL
-- [**plataforma-finaceira.**](https://github.com/Tonjr12/plataforma-finaceira.): plataforma financeira em Python
-- [**Tonjr12-logica_programacao_python**](https://github.com/Tonjr12/Tonjr12-logica_programacao_python): lógica, estruturas de dados e análise financeira via CLI
 
 ## Vamos conectar!
 
