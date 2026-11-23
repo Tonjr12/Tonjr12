@@ -6,17 +6,20 @@
 
 ---
 
-Estudante de programação em São Paulo, técnico formado pelo SENAC. Foco em Python: lógica de programação, estruturas de dados, álgebra linear e integração com banco de dados MySQL.
+Estudante de **Data Science** na **FIAP** (início em fev/2027) e técnico em **Tecnologia da Informação** formado pelo **SENAC** em São Paulo. Foco em **Python**, **SQL (MySQL)**, lógica de programação, estruturas de dados, álgebra linear e análise de dados.
 
-## Tecnologias
+### 🚀 O que venho desenvolvendo
+* **SQL & Bancos de Dados:** modelagem, consultas, integridade e integração de aplicações com **MySQL** (como o projeto `plataforma-financeira`).
+* **Python & Aplicações:** scripts, estruturas de dados, análise e apps interativos publicados com **Streamlit** (`app_saque.py`, `app_jokenpo.py`).
+* **Controle de Versão:** prática diária com **Git** e **GitHub**.
+
+### 🛠️ Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,git,github,pycharm" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,git,github,pycharm,vscode" alt="Tecnologias" />
 </p>
 
-
-
-## Vamos conectar!
+### 📫 Vamos conectar!
 
 <div align="center">
   <a href="https://github.com/Tonjr12">
