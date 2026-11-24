@@ -22,11 +22,12 @@ Estudante de **Data Science** na **FIAP** (início em fev/2027) e técnico em **
 ### 📫 Vamos conectar!
 
 <div align="center">
-  <a href="https://github.com/Tonjr12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/tonjr12" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
+
